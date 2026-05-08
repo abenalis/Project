@@ -1,4 +1,4 @@
-:root {
+    :root {
     --primary: #3b82f6;      
     --secondary: #14b8a6;    
     --text: #ffffff;         
@@ -764,4 +764,10 @@ nav ul li:hover a::after {
     .project-card {
         padding: 20px;
     }
+}
+.project-description{
+    margin: 12px 0;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #d6d6d6;
 }
